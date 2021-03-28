@@ -30,36 +30,79 @@
     color: #ce715e;
 }
 
- .nav-fluid h5 {
+.nav-fluid h5 {
     padding-left: 10px;
 }
-.main-fluid {
-    background-image:url('../images/img14.jpg');
-    background-repeat:no-repeat;
-    background-size:100% 100%;
-    background-position:center;
 
+.main-fluid {
+    background-image: url('../images/img14.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
 }
-} 
+
 .d-flex h2 {
     font-weight: bold;
 }
-.d-flex p{
+
+.d-flex p {
     font-size: xx-small;
 }
+
 .park p {
     font-size: xx-small;
 }
+
 .card img {
     height: 140px;
-    
+
 }
-.card{
+
+.card {
     border: none;
 }
-.nav-fluid p{
+
+.nav-fluid p {
     font-size: medium;
 }
-.card iframe {
-    padding-left: -50px;
+
+.dropdown-menu li a {
+    color: gray;
+}
+
+.activities {
+    text-align: center;
+    color: white;
+}
+
+ul {
+    display: inline-block;
+}
+
+.activities a {
+    color: white;
+    font-size: small;
+}
+
+.des1 {
+    color: seashell;
+    margin-left: 10px;
+    margin-top: -50px;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.pics {
+    height: 70%;
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.pics-title {
+    color: white;
+}
+
+.info {
+    padding-left: 20px;
 }
